@@ -2,7 +2,7 @@
 
 This repo contains the samples that demonstrate the API usage patterns for Microsoft Xbox Live Service.
 These code samples target the Universal Windows Platform (UWP) and Xbox One XDK.
-To get access to the Xbox Live service, you can join the Xbox Live Creators Program at https://aka.ms/xblcp, or apply to the ID@Xbox program at http://www.xbox.com/en-us/Developers/id
+To get access to the Xbox Live service, you can join the Xbox Live Creators Program at https://aka.ms/xblcp, or apply to the ID@Xbox program at http://www.xbox.com/en-us/Developers/id. To learn more about the two programs you can read [the developer program overview](https://docs.microsoft.com/en-us/windows/uwp/xbox-live/developer-program-overview).
 
 ## How to clone repo
 
